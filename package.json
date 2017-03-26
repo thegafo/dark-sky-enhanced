@@ -1,0 +1,28 @@
+{
+  "name": "dark-sky-enhanced",
+  "version": "1.0.0",
+  "description": "Simple Node.js Dark Sky library, with geocoding and enhanced summaries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gafopi/dark-sky-enhanced.git"
+  },
+  "keywords": [
+    "Dark Sky",
+    "Weather",
+    "Geocoding"
+  ],
+  "author": "Gabriel Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gafopi/dark-sky-enhanced/issues"
+  },
+  "homepage": "https://github.com/gafopi/dark-sky-enhanced#readme",
+  "dependencies": {
+    "@google/maps": "^0.3.1",
+    "request": "^2.81.0"
+  }
+}
